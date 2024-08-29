@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Jake
 [instagram]: https://www.instagram.com/Jake
-[linkedin]: https://linkedin.com/in/Jake-Mannerz
+[linkedin]: https://linkedin.com/in/jake-mannerz-ab7804323/
