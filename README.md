@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JakeMannerz/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JakeMannerz/azure-network-protocols)
 - <b>Microsoft Virtual Private Network (VPNs)</b>
-  - link
+  - [Observing Virtual-Private-Networks](https://github.com/JakeMannerz/Virtual-Private-Network/blob/main/README.md)
 <h2>🤳Connect with me:</h2>
 
 
